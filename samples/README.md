@@ -1,3 +1,0 @@
-# Sample Projects
-
-This folder contains sample projects that demonstrate the README/whitepaper on the project. The samples are not meant to be fully complete, but enough to get the idea.  The samples may grow throughout the semester so make sure to check the main repository located at [https://github.com/CS5001-khoury/FinalProjectTemplate/tree/main](https://github.com/CS5001-khoury/FinalProjectTemplate/tree/main) for the latest version.
