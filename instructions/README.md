@@ -13,7 +13,7 @@ Due dates will be listed in canvas, along with the full rubric.
 
 ## Setting up your Repository
 
-There are a number of resources at the bottom of this document to setup the repository on github. We have made this repository a "Template Repository", and we recommend that you use that to create your own repository. This will allow you to clone the repository to your local machine, and then push changes to your own repository. Make sure to go to the '[root](../)' of this repo, to see the "Uses this template" button.
+There are a number of resources at the bottom of this document to setup the repository on github. We have made this repository a "Template Repository", and we recommend that you use that to create your own repository. This will allow you to clone the repository to your local machine, and then push changes to your own repository. Make sure to go to the '[root](../)' of this repo, to see the "Use this template" button.
 
 Github is a standard in the industry, and we want you to get used to using it. You will use it in future courses, and it is a great way to show off your work to potential employers.  Make sure to meet with the TA or instructor *EARLY* if you don't have it setup!
 
