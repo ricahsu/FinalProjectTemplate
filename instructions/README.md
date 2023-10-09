@@ -78,6 +78,8 @@ method doing one job. No “giant main()” ugly coding
 * Little or no duplication of code
 * Extensible: organized to allow increased functionality in the future
 * Test code is provided and indicates thorough coverage
+  * This can be hard for applications with graphics (GUI, webpages, etc) - your tests 
+  will need to be a combination of code tests, and screenshot/videos that show interface testing! Remember to focus on keeping the code in small chunks, to make testing easier!
 
 
 
