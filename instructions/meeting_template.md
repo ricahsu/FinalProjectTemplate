@@ -32,11 +32,11 @@ What are some resources you have found already or already have access to? (APIs,
 ## Timeline
 Setup a general timeline that includes research and development, and when you want to have certain aspects of the project done. 
     
-    Creating Mock data/ Github: 
-
-    In this meeting we defined the project scope.
-    Initialize your repo    
+    By 11/20 3:00 pm
+    Initialize your repo in Github 
     Flowchart
     Build the mock data files 
+    
+    
     Core logic implementation (your code) 
     Start review/testing/documentation
