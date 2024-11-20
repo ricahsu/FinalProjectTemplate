@@ -1,0 +1,82 @@
+Babs, Female, Mixed Breed, 81 lbs, 2Y :[
+    "She plays well with other dogs",
+    "My dog love to playing with Babs. They always have good time together." 
+]
+(Mistletoe, Female ,German Shepherd, 70 lbs, 3Y ):[
+    " Mistletoe is so energetic, my fur family likes to run around with her.",
+    " German Shepherd with a big heart. She is well mannered with other dogs.",
+    " She is friendly and good with dogs."
+]
+
+
+(Aurora, Female, Husky, 68 lbs, 2Y):[
+    "Aurora is fun, she sometimes plays a bit rough torwards dogs. But we still love playing with her.",
+    " My dog loves to play fetch with her, they had a great time at the park.",
+    " She has some much energy like my dog. Watching them running and worn themselves out was fun."
+
+]
+Bentley, Male, Black Labrador Retriever, 103.2 lbs, 11Y = [
+    "Bentley was a nice and friendly dog.", 
+    "He is so gentle to my puppies."
+
+]
+
+Herman Franks Dog Park = (
+(Jax, Male, Border Collie, 44 lbs, 9M )=[
+    "Jax is friendly and my dog love playing with him."
+]
+(Dexter, Male, Chocolate Labrador Retriever, 71 lbs, 8Y,  I am an adventure dog) = [
+    " Dexter was nice to have a playdate with your dog. He is so playful.",
+    " My dog was so excited to have friends at this park. Dexter is one of his friends now."
+]
+(Dabin, Male, Black Labrador Retriever Mix, 49.6 lbs, 1Y )= [
+    "My dog alaways have a good time with Dabin, they run aroud the park, and sniff around." 
+]
+(Nino, Male, Mixed Breed, 112 lbs, 2Y) =[
+    " Nino is a big guy, sometimes plays a little bit harsh on the dog.",
+    " Beware of Nino, not friendly with small dogs.",
+    " He is aggressive."
+
+]
+(Wolad, Male, Mixed Breed, 69 lbs, 2Y) = [
+    " Woland is fun. My dog was happy to play with him."
+]
+)
+Cottonwood Dog Park =(
+(Iris, Female, Mixed Breed, 49.6 lbs, 5M) =[
+    "Iris is a cute puppie, my dog would take her running around the park."
+    "She is still leaning some manners, but she's friendly."
+]
+(Agnarr, Male, Husky Mix, 76.2 lbs, 5Y) =[
+    " My dog played fetching with Agnarr, he is a great playmate for my dog."
+    " Agnarr was a playful and friendly dog."
+]
+(Zeus, Male, Labrador Retriever Mix, 26 lbs, 1Y)= [
+    "Zeus was friendly, my dog running around the park with him. Both of them had a great time together.", 
+    " He is nice to my dog."
+]
+)
+Rotary Glen Dog Park = 
+(River, Male, Labrador Retriever Mix, 23 lbs, 3M)=[
+    "My dog love playing with Rive, they would run into the creek and play with water. I like to bring my dog to this park."
+]
+(Roxy, Female, Mix Breed, 63 lbs, 9Y) = [
+    " Roxy is so nice, showing around the park with my dog. My dog had a good time there.",
+    " My dog was so tired after the dog park. I believe she had good time with Roxy."
+    " She is friendly and playful."
+]
+(Maya, Female, Mixed Breed, 45 lbs, 4Y = [
+    "My dogs had a good time playing with Maya, they found a stick and play with it for the whole time.",
+    " Maya was gentle with my puppy, she is a amazing playdate for my puppy."
+]
+
+Lindsey Gardens Dog Park = (
+(Manila, Female, German Shepherd, 74 lbs, 2Y = [
+    " Manila was so smart, my dog loves to play with her.",
+    " She is friendly."
+]
+(Tipper, Male, Mixed Breed, 60 lbs, 8M) = [
+    "Tipper was fun, My dog likes to play with him, they would chase each others.",
+    " We loves to have Tipper as a playmate for our dog, they are learning and playing together."
+]
+)
