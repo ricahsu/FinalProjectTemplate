@@ -1,0 +1,35 @@
+Pioneer Dog Park = {
+Jane, the park is pretty clean, and had bags. 4
+Hank, The dog park is just a fenced in area covered in wood chips. 1
+Debby, Nice, fenced area with fresh water, lots of shade and Doggie Bags with disposal. 4
+Glen, It's clean,  but boring.  Nothing but a rectangle with wood chips. 2
+}
+
+Herman Franks Dog = {
+Lisa, Great big dog park, really nice place to visit.  5
+Racheal, This is a wonderful dog park, it’s always relatively clean, 5
+Kevin,  There are some strange and irresponsible dog owners that frequent this park. 1
+ella, Mainly sand/gravel with some grassy areas. There are a few agility features., 4
+}
+
+Cottonwood Dog Park = {
+(Mary, Very big and open, I much prefer the grass here to parks with sand or gravel. 6), 
+(Pan, Perfect for my pup to run around with lots of grass and trees and benches!. 5),
+(David, The smell and appearance of the homeless. 2 )
+(Tom, Absolutely love this dog park! The pup has made sooo many new friends there! 5),
+(Amy, Some times homeless hang out around here. 3),
+
+}
+Rotary Glen Dog Park = {
+Joyce, Love that is large and dogs can get a good workout. 5
+Manual, Very nice. Mostly fenced in. 5
+Rob, Nice mowed field, fresh water spigot at site. 4
+} 
+
+Lindsey Gardens Dog Park = {
+Jay, Great dog park. It has a ton of space and different areas for the dogs to play. It's clean and the grass is maintened. 5
+Paul, Nice dog park. 4 
+Bob,  Great park with off leash and leashed areas for dogs. 5
+Daven, Dog park isn't fenced. 3
+Nancy, Nice open area for dogs to run around. 5
+}

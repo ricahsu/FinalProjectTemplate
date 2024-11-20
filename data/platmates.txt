@@ -1,0 +1,29 @@
+Pioneer Dog Park = ( (Name, Gender, Breed, Weight, Age), 
+(Babs, Female, Mixed Breed, 81 lbs, 2Y ), 
+(Mistletoe, Female ,German Shepherd, 70 lbs, 3Y ),
+(Aurora, Female, Husky, 68 lbs, 2Y),
+(Bentley, Male, Black Labrador Retriever, 103.2 lbs, 11Y ),
+)
+Herman Franks Dog Park = (
+(Jax, Male, Border Collie, 44 lbs, 9M ),
+(Dexter, Male, Chocolate Labrador Retriever, 71 lbs, 8Y,  I am an adventure dog),
+(Dabin, Male, Black Labrador Retriever Mix, 49.6 lbs, 1Y ),
+(Nino, Male, Mixed Breed, 112 lbs, 2Y),
+(Wolad, Male, Mixed Breed, 69 lbs, 2Y),
+)
+Cottonwood Dog Park =(
+(Iris, Female, Mixed Breed, 49.6 lbs, 5M),
+(Agnarr, Male, Husky Mix, 76.2 lbs, 5Y),
+(Zeus, Male, Labrador Retriever Mix, 26 lbs, 3M),
+)
+Rotary Glen Dog Park = 
+(River, Male, Labrador Retriever Mix, 23 lbs, 3M),
+(Roxy, Female, Mix Breed, 63 lbs, 9Y),
+(Maya, Female, Mixed Breed, 45 lbs, 4Y)
+
+Lindsey Gardens Dog Park = (
+(Manila, Female, German Shepherd, 74 lbs, 2Y ),
+(Tipper, Male, Mixed Breed, 60 lbs, 8M),
+)
+    
+
